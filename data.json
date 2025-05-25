@@ -1,16 +1,29 @@
 {
   "clock": {
-    "word1": "HALB",
+    "word1": "",
     "word2": "",
     "word3": "SECHS",
-    "phrase": "17:30"
+    "phrase": "18:00"
   },
   "boxB": {
     "title": "Tobi",
-    "items": []
+    "items": [
+      "Staubsaugen 7",
+      "M?ll 7",
+      "31.05. ? Druck Karten",
+      "17.06. ? Gr?nniger",
+      "23.06. ? Urlaub"
+    ]
   },
   "boxA": {
     "title": "Topsi",
-    "items": []
+    "items": [
+      "W?sche7",
+      "Sp?lmaschiene 7",
+      "06.06. ? Rett",
+      "19.06. ? Rett",
+      "20.06. ? Urlaub",
+      "20.06. ? Urlaub Forensik"
+    ]
   }
 }

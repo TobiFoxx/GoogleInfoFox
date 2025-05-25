@@ -1,17 +1,17 @@
 {
   "clock": {
-    "word1": "VIERTEL",
-    "word2": "NACH",
-    "word3": "SECHS",
-    "phrase": "18:15"
+    "word1": "HALB",
+    "word2": "",
+    "word3": "SIEBEN",
+    "phrase": "18:30"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
       "Staubsaugen 7",
-      "M?ll 7",
+      "Müll 7",
       "31.05. Druck Karten",
-      "17.06. Gr?nniger",
+      "17.06. Grönniger",
       "08.08. 13:45 Wir",
       "28.08. HNO"
     ]
@@ -19,8 +19,8 @@
   "boxA": {
     "title": "Topsi",
     "items": [
-      "W?sche7",
-      "Sp?lmaschiene 7",
+      "Wäsche7",
+      "Spülmaschiene 7",
       "06.06. Rett",
       "19.06. Rett",
       "27.06. D&D NRW",

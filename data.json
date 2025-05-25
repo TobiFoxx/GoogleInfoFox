@@ -1,30 +1,30 @@
 {
   "clock": {
-    "word1": "HALB",
-    "word2": "",
+    "word1": "VIERTEL",
+    "word2": "VOR",
     "word3": "ACHT",
-    "phrase": "19:30"
+    "phrase": "19:45"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
-      "Staubsaugen 7",
-      "Müll 7",
       "31.05. Druck Karten",
       "17.06. Grönniger",
       "08.08. 13:45 Wir",
-      "28.08. HNO"
+      "28.08. HNO",
+      "02.09. EF",
+      "03.11. ❤️Jahrestag❤️"
     ]
   },
   "boxA": {
     "title": "Topsi",
     "items": [
-      "Wäsche7",
-      "Spülmaschiene 7",
       "06.06. Rett",
       "19.06. Rett",
       "27.06. D&D NRW",
-      "28.06. Marie"
+      "28.06. Marie",
+      "01.07. Melina",
+      "03.07. Kino mit Papa"
     ]
   }
 }

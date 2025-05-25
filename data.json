@@ -1,6 +1,6 @@
 {
   "clock": {
-    "word1": "",
+    "word1": "HALB",
     "word2": "",
     "word3": "SECHS",
     "phrase": "18:00"
@@ -12,7 +12,8 @@
       "M?ll 7",
       "31.05.  Druck Karten",
       "17.06.  Gr?nniger",
-      "23.06.  Urlaub"
+      "23.06.  Urlaub",
+      "04.08.  Urlaub"
     ]
   },
   "boxA": {

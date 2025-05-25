@@ -1,0 +1,16 @@
+{
+  "clock": {
+    "word1": "HALB",
+    "word2": "",
+    "word3": "SECHS",
+    "phrase": "17:30"
+  },
+  "boxB": {
+    "title": "Tobi",
+    "items": []
+  },
+  "boxA": {
+    "title": "Topsi",
+    "items": []
+  }
+}

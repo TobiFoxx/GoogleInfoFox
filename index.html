@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Feste Boxen ohne Stretch</title>
+  <link href="https://fonts.googleapis.com/css2?family=Quantico&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      background-color: #fff;
+      height: 100vh;
+      font-family: 'Quantico', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+.wrapper {
+  width: 800px;
+  height: 480px;
+  display: flex;
+  gap: 20px;
+  overflow: hidden;       /* Wichtig: nichts darf rausragen */
+  box-sizing: border-box;
+  min-width: 0;           /* Verhindert „Schub“ durch lange Inhalte */
+}
+
+
+    .card {
+      width: 50%;
+  min-width: 0;
+      background-color: #000;
+      border: 2px solid #000;
+      border-radius: 12px;
+      padding: 10px;
+      box-sizing: border-box;
+      color: #fff;
+      display: block;
+      flex-direction: column;
+    }
+
+    .card-title {
+      font-weight: bold;
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    .box {
+      background-color: #fff;
+      color: #000;
+      border: 1px solid #000;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 2rem;
+      height: 60px;
+      line-height: 60px;
+      padding: 0 12px;
+      margin-bottom: 8px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+
+      /* Schlüsselzeile zur Breitenkontrolle */
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    .box:last-child {
+      margin-bottom: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="card">
+      <div class="card-title" id="boxB-title">Boxen</div>
+      <div class="box" id="boxB-1">Box 1</div>
+      <div class="box" id="boxB-2">Box 2</div>
+      <div class="box" id="boxB-3">Box 3</div>
+      <div class="box" id="boxB-4">Box 4</div>
+      <div class="box" id="boxB-5">Box 5</div>
+      <div class="box" id="boxB-6">Box 6</div>
+    </div>
+
+    <div class="card">
+      <div class="card-title" id="boxA-title">BoxenA</div>
+      <div class="box" id="boxA-1">Box 1A</div>
+      <div class="box" id="boxA-2">Box 2A</div>
+      <div class="box" id="boxA-3">Box 3A</div>
+      <div class="box" id="boxA-4">Box 4A</div>
+      <div class="box" id="boxA-5">Box 5A</div>
+      <div class="box" id="boxA-6">Box 6A</div>
+    </div>
+  </div>
+
+  <script>
+    fetch('https://raw.githubusercontent.com/TobiFoxx/GoogleInfoFox/main/data.json')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('boxB-title').textContent = data.boxB.title || 'Boxen';
+        document.getElementById('boxA-title').textContent = data.boxA.title || 'BoxenA';
+
+        (data.boxB.items || []).forEach((text, i) => {
+          const el = document.getElementById(`boxB-${i+1}`);
+          if (el) el.textContent = text;
+        });
+
+        (data.boxA.items || []).forEach((text, i) => {
+          const el = document.getElementById(`boxA-${i+1}`);
+          if (el) el.textContent = text;
+        });
+      })
+      .catch(error => {
+        console.error('Fehler beim Laden von data.json:', error);
+      });
+  </script>
+</body>
+</html>

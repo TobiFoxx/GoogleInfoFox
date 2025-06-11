@@ -1,19 +1,19 @@
 {
   "clock": {
-    "word1": "VIERTEL",
-    "word2": "NACH",
-    "word3": "ZEHN",
-    "phrase": "22:15"
+    "word1": "HALB",
+    "word2": "",
+    "word3": "ELF",
+    "phrase": "22:30"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
-      "14.06. Meline",
+      "13.06. Meline",
+      "14.06. Kino",
       "17.06. Grönniger",
       "23.06. Bürgerbüro",
       "23.06. Straßenverkehrsamt Unna",
-      "08.08. 13:45 Wir",
-      "28.08. HNO"
+      "26.06. Schlüsselübergabe"
     ]
   },
   "boxA": {

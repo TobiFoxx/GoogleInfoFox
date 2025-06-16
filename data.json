@@ -1,19 +1,19 @@
 {
   "clock": {
-    "word1": "VIERTEL",
-    "word2": "NACH",
-    "word3": "SECHS",
-    "phrase": "18:15"
+    "word1": "HALB",
+    "word2": "",
+    "word3": "SIEBEN",
+    "phrase": "18:30"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
-      "16.06. Alte Wohnung Tisch und Teppich Abholung",
       "17.06. Grönniger",
       "18.06. Alte Wohnung Schrank und Teppich Abholung",
       "21.06. Alte Wohnung Bett Abholung",
       "21.06. Markler",
-      "23.06. Topsi alte Wohnung "
+      "23.06. Topsi alte Wohnung ",
+      "23.06. Bürgerbüro"
     ]
   },
   "boxA": {

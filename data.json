@@ -1,9 +1,9 @@
 {
   "clock": {
-    "word1": "HALB",
-    "word2": "",
+    "word1": "VIERTEL",
+    "word2": "VOR",
     "word3": "FÜNF",
-    "phrase": "04:45"
+    "phrase": "05:00"
   },
   "boxB": {
     "title": "Tobi",

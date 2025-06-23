@@ -1,19 +1,19 @@
 {
   "clock": {
-    "word1": "VIERTEL",
-    "word2": "NACH",
-    "word3": "ELF",
-    "phrase": "11:15"
+    "word1": "HALB",
+    "word2": "",
+    "word3": "ZWÖLF",
+    "phrase": "11:30"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
       "23.06. Topsi alte Wohnung ",
-      "23.06. Bürgerbüro",
       "23.06. Straßenverkehrsamt Unna",
       "23.06. Alte Wohnung Bett Abholung",
       "24.06. Stipendium!",
-      "26.06. Schlüsselübergabe"
+      "26.06. Schlüsselübergabe",
+      "05.07. JGA"
     ]
   },
   "boxA": {

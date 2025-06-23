@@ -1,19 +1,19 @@
 {
   "clock": {
-    "word1": "VIERTEL",
-    "word2": "NACH",
-    "word3": "SECHS",
-    "phrase": "18:15"
+    "word1": "HALB",
+    "word2": "",
+    "word3": "SIEBEN",
+    "phrase": "18:30"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
       "23.06. Topsi alte Wohnung ",
-      "23.06. Alte Wohnung Bett Abholung",
       "24.06. Stipendium!",
       "26.06. Schlüsselübergabe",
       "05.07. JGA",
-      "08.08. 13:45 Wir"
+      "08.08. 13:45 Wir",
+      "28.08. HNO"
     ]
   },
   "boxA": {

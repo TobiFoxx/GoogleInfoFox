@@ -2,8 +2,8 @@
   "clock": {
     "word1": "",
     "word2": "",
-    "word3": "NEUN",
-    "phrase": "21:15"
+    "word3": "ZEHN",
+    "phrase": "21:30"
   },
   "boxB": {
     "title": "Tobi",
@@ -19,12 +19,12 @@
   "boxA": {
     "title": "Topsi",
     "items": [
-      "25.06. Ben",
       "27.06. D&D NRW",
       "28.06. Marie",
       "01.07. Melina",
       "03.07. Kino mit Papa",
-      "04.07. TeamTag"
+      "04.07. TeamTag",
+      "05.07. Frühstück JGA"
     ]
   }
 }

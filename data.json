@@ -2,8 +2,8 @@
   "clock": {
     "word1": "",
     "word2": "",
-    "word3": "00:00",
-    "phrase": "00:15"
+    "word3": "00:15",
+    "phrase": "00:30"
   },
   "boxB": {
     "title": "Tobi",
@@ -19,12 +19,12 @@
   "boxA": {
     "title": "Topsi",
     "items": [
-      "01.07. Melina",
       "03.07. Kino mit Papa",
       "04.07. TeamTag",
       "05.07. Frühstück JGA",
       "06.07. Cody",
-      "06.07. Melina 10:00"
+      "06.07. Melina 10:00",
+      "12.07. Hochzeit Marie & Thomas"
     ]
   }
 }

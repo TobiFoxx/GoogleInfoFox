@@ -2,8 +2,8 @@
   "clock": {
     "word1": "",
     "word2": "",
-    "word3": "00:15",
-    "phrase": "00:15"
+    "word3": "00:30",
+    "phrase": "00:30"
   },
   "boxB": {
     "title": "Tobi",
@@ -19,12 +19,12 @@
   "boxA": {
     "title": "Topsi",
     "items": [
-      "06.07. Cody",
       "12.07. Hochzeit Marie & Thomas",
       "19.07. Chris",
       "19.07. Melina 10:00",
       "25.07. D&D Meer",
-      "26.07. Internationaler Tag Der Tanten und Onkel"
+      "26.07. Internationaler Tag Der Tanten und Onkel",
+      "01.08. D&D NRW"
     ]
   }
 }

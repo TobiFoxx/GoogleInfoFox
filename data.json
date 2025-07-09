@@ -2,18 +2,18 @@
   "clock": {
     "word1": "",
     "word2": "",
-    "word3": "00:15",
-    "phrase": "00:15"
+    "word3": "00:30",
+    "phrase": "00:30"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
-      "09.07. 🟡Schwimmen",
-      "09.07. 🟣Thomas",
       "10.07. 🟡Bürgeramt",
       "10.07. 🟢Möbel gucken",
       "11.07. 🟡Melina",
-      "19.07. Sommerfest"
+      "19.07. Sommerfest",
+      "08.08. 13:45 Wir",
+      "28.08. HNO"
     ]
   },
   "boxA": {

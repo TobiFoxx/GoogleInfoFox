@@ -2,29 +2,29 @@
   "clock": {
     "word1": "",
     "word2": "",
-    "word3": "00:13",
-    "phrase": "00:13"
+    "word3": "00:18",
+    "phrase": "00:18"
   },
   "boxB": {
     "title": "Tobi",
     "items": [
-      "19.07. Sommerfest",
       "22.07. Anika / Roadstop",
       "24.07. Britta Sandra",
       "08.08. 13:45 Wir",
       "28.08. HNO",
-      "02.09. EF"
+      "02.09. EF",
+      "08.09. 16:40 Grönniger"
     ]
   },
   "boxA": {
     "title": "Topsi",
     "items": [
-      "19.07. Chris",
       "20.07. Gbr - Vertrag",
       "25.07. D&D Meer",
       "26.07. Internationaler Tag Der Tanten und Onkel",
       "01.08. D&D NRW",
-      "10.08. Saschi"
+      "10.08. Saschi",
+      "21.08. Susanne"
     ]
   }
 }

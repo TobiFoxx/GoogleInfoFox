@@ -1,25 +1,25 @@
 {
   "clock": {
     "word1": "",
-    "word2": "Sun.20.07. Gbr - Vertrag",
-    "word3": "Tue.22.07. Anika / Roadstop",
-    "phrase": "Thu.24.07. Britta Sandra"
+    "word2": "Sun 20.07. Gbr - Vertrag",
+    "word3": "Tue 22.07. Anika / Roadstop",
+    "phrase": "Thu 24.07. Britta Sandra"
   },
   "boxA": {
     "title": "",
     "items": [
-      "Sun.20.07. Gbr - Vertrag",
-      "Tue.22.07. Anika / Roadstop",
-      "Thu.24.07. Britta Sandra",
-      "Fri.25.07. D&D Meer",
-      "Sat.26.07. Internationaler Tag Der Tanten und Onkel",
-      "Fri.01.08. D&D NRW",
-      "Fri.08.08. 13:45 Wir",
-      "Sun.10.08. Saschi",
-      "Thu.21.08. Susanne",
-      "Fri.22.08. Sascha Köln",
-      "Thu.28.08. HNO",
-      "Tue.02.09. EF"
+      "Sun 20.07. Gbr - Vertrag",
+      "Tue 22.07. Anika / Roadstop",
+      "Thu 24.07. Britta Sandra",
+      "Fri 25.07. D&D Meer",
+      "Sat 26.07. Internationaler Tag Der Tanten und Onkel",
+      "Fri 01.08. D&D NRW",
+      "Fri 08.08. 13:45 Wir",
+      "Sun 10.08. Saschi",
+      "Thu 21.08. Susanne",
+      "Fri 22.08. Sascha Köln",
+      "Thu 28.08. HNO",
+      "Tue 02.09. EF"
     ]
   }
 }

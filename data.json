@@ -1,14 +1,13 @@
 {
   "clock": {
     "word1": "",
-    "word2": "20.07. Gbr - Vertrag",
-    "word3": "22.07. Anika / Roadstop",
-    "phrase": "24.07. Britta Sandra"
+    "word2": "22.07. Anika / Roadstop",
+    "word3": "24.07. Britta Sandra",
+    "phrase": "25.07. D&D Meer"
   },
   "boxA": {
     "title": "",
     "items": [
-      "20.07. Gbr - Vertrag",
       "22.07. Anika / Roadstop",
       "24.07. Britta Sandra",
       "25.07. D&D Meer",
@@ -19,7 +18,8 @@
       "08.08. 13:45 Wir",
       "10.08. Saschi",
       "16.08. Melina",
-      "21.08. Susanne"
+      "21.08. Susanne",
+      "22.08. Sascha Köln"
     ]
   }
 }

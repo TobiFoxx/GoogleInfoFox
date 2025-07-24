@@ -1,14 +1,13 @@
 {
   "clock": {
     "word1": "",
-    "word2": "24.07. Britta Sandra",
-    "word3": "25.07. D&D Meer",
-    "phrase": "26.07. Internationaler Tag Der Tanten und Onkel"
+    "word2": "25.07. D&D Meer",
+    "word3": "26.07. Internationaler Tag Der Tanten und Onkel",
+    "phrase": "29.07. Melina"
   },
   "boxA": {
     "title": "",
     "items": [
-      "24.07. Britta Sandra",
       "25.07. D&D Meer",
       "26.07. Internationaler Tag Der Tanten und Onkel",
       "29.07. Melina",
@@ -19,7 +18,8 @@
       "16.08. Melina",
       "21.08. Susanne",
       "22.08. Sascha Köln",
-      "23.08. Melina"
+      "23.08. Melina",
+      "28.08. HNO"
     ]
   }
 }

@@ -2,14 +2,13 @@
   "clock": {
     "word1": "",
     "word2": "25.07. D&D Meer",
-    "word3": "26.07. Internationaler Tag Der Tanten und Onkel",
-    "phrase": "29.07. Melina"
+    "word3": "29.07. Melina",
+    "phrase": "01.08. D&D NRW"
   },
   "boxA": {
     "title": "",
     "items": [
       "25.07. D&D Meer",
-      "26.07. Internationaler Tag Der Tanten und Onkel",
       "29.07. Melina",
       "01.08. D&D NRW",
       "05.08. Melina",
@@ -19,7 +18,8 @@
       "21.08. Susanne",
       "22.08. Sascha Köln",
       "23.08. Melina",
-      "28.08. HNO"
+      "28.08. HNO",
+      "02.09. EF"
     ]
   }
 }

@@ -1,14 +1,13 @@
 {
   "clock": {
     "word1": "",
-    "word2": "05.08. Melina",
-    "word3": "08.08. 13:45 Wir",
-    "phrase": "10.08. Saschi"
+    "word2": "08.08. 13:45 Wir",
+    "word3": "10.08. Saschi",
+    "phrase": "12.08. Anika"
   },
   "boxA": {
     "title": "",
     "items": [
-      "05.08. Melina",
       "08.08. 13:45 Wir",
       "10.08. Saschi",
       "12.08. Anika",
@@ -19,7 +18,8 @@
       "23.08. Melina",
       "28.08. HNO",
       "02.09. EF",
-      "04.09. Alice"
+      "04.09. Alice",
+      "08.09. 16:40 Grönniger"
     ]
   }
 }

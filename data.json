@@ -1,14 +1,13 @@
 {
   "clock": {
     "word1": "",
-    "word2": "10.08. Saschi",
-    "word3": "12.08. Anika",
-    "phrase": "15.08. Sachlundenachweis 14:30"
+    "word2": "12.08. Anika",
+    "word3": "15.08. Sachlundenachweis 14:30",
+    "phrase": "16.08. Melina"
   },
   "boxA": {
     "title": "",
     "items": [
-      "10.08. Saschi",
       "12.08. Anika",
       "15.08. Sachlundenachweis 14:30",
       "16.08. Melina",
@@ -19,7 +18,8 @@
       "02.09. EF",
       "04.09. Alice",
       "08.09. 16:40 Grönniger",
-      "17.09. Rehacare"
+      "17.09. Rehacare",
+      "19.09. D&D"
     ]
   }
 }
